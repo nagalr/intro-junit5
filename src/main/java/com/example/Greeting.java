@@ -2,7 +2,7 @@ package com.example;
 
 public class Greeting {
 
-    private static final String HELLO = "Helloo";
+    private static final String HELLO = "Hello";
     private static final String WORLD = "World";
 
     public String helloWorld() {
